@@ -1,1 +1,1 @@
-web: node . --session 'haori.json'
+node . --session 'haori.json'
